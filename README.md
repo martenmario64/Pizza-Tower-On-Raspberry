@@ -6,7 +6,7 @@ On Either Installation, You'll See A Folder Called Game,
 copy your steam files of Pizza Tower in that folder,
 No Subdirectorys.
 
-#Diffirences Between Installations
+# Diffirences Between Installations
 
 Regular - 30 FPS, Allows Up To 1080p (Do Not Put The Game In Fullscreen.)
 
