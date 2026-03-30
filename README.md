@@ -1,6 +1,8 @@
 # Pizza-Tower-On-Raspberry
 
-(NOTE: It is highly recommended you Overclock your Raspberry Pi 5.)
+(NOTE: It is highly recommended you Overclock your Raspberry Pi 5,
+Also, If You Don't Want eye strain, please pick the Professional
+version.)
 
 On Either Installation, You'll See A Folder Called Game,
 copy your steam files of Pizza Tower in that folder,
