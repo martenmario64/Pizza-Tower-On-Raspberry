@@ -4,6 +4,8 @@
 Also, If You Don't Want eye strain, please pick the Professional
 version.)
 
+(NOTE: Also as if you Really hate The Noise for some reason as a playable character, This Installer Should Be Able To Work With Pre Noise Update Versions Of Pizza Tower (Untested))
+
 On Either Installation, You'll See A Folder Called Game,
 copy your steam files of Pizza Tower in that folder,
 No Subdirectorys.
