@@ -11,7 +11,9 @@ Professional - 30 FPS, Allows Up To 720p (Fullscreen is fine, but 1080p has not 
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
 
-#Installation Steps
+# Installation Steps
+
+
 One, Put Your Steam Pizza Tower files
 into /home/yourusername/your/path/to/this/Game/
 then Just Click The Installer.sh!
