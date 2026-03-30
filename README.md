@@ -5,6 +5,7 @@ copy your steam files of Pizza Tower in that folder,
 No Subdirectorys.
 
 Diffirences Between Installations
+
 Regular - 30 FPS, Allows Up To 1080p (Do Not Put The Game In Fullscreen.)
 
 Professional - 50 FPS, Allows Up To 720p (Fullscreen is fine, but 1080p has not been tested.)
