@@ -6,7 +6,8 @@ No Subdirectorys.
 
 Diffirences Between Installations
 Regular - 30 FPS, Allows Up To 1080p (Do Not Put The Game In Fullscreen.)
-Professional - 30 FPS, Allows Up To 720p (Fullscreen is fine, but 1080p has not been tested.)
+
+Professional - 50 FPS, Allows Up To 720p (Fullscreen is fine, but 1080p has not been tested.)
 
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
