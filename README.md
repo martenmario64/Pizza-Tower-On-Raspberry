@@ -24,5 +24,5 @@ Just click the install.sh file and you're ready!
 
 One, Put Your Steam Pizza Tower files
 into /home/yourusername/your/path/to/this/Game/
-then Just Click The Installer.sh!
+then Just Click The Installer.sh (DO NOT CLICK PATCHER.SH, THAT WILL MESS UP THE SETUP.)
 (If The Installer Wants You To Switch To A 4K Page Size, Click Yes.)
