@@ -1,5 +1,5 @@
 # Pizza-Tower-On-Raspberry
-Hello! This is a fan-made installer for the Pizza Tower Game on steam that can be played On Standard Raspberry Pi OS!
+Hello! This is a fan-made installer for Pizza Tower on Steam that can be played On Standard Raspberry Pi OS!
 
 If You Don't Have The Real Steam Files Or a Raspberry Pi 5, You will
 
@@ -30,3 +30,8 @@ into /home/yourusername/your/path/to/this/Game/
 then Just Click The Installer.sh (DO NOT CLICK PATCHER.SH, THAT WILL MESS UP THE SETUP.)
 
 (If The Installer Wants You To Switch To A 4K Page Size, Click Yes.)
+
+# Credits
+Pi Apps & Botspot - Dependencies
+Tour De Pizza - Pizza Tower
+MartenMario64 - Creator Of The Installer
