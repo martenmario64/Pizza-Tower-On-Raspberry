@@ -1,11 +1,4 @@
 # Pizza-Tower-On-Raspberry
-
-(NOTE: It is highly recommended you Overclock your Raspberry Pi 5,
-Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder, And additionally if You Don't Want (possible) eye strain, please pick the Professional
-version.)
-
-(NOTE: Also as if you Really hate The Noise for some reason as a playable character, This Installer Should Be Able To Work With Pre Noise Update Versions Of Pizza Tower (Untested))
-
 Hello! This is a fan-made installer for the Pizza Tower Game on steam that can be played On Standard Raspberry Pi OS!
 
 If You Don't Have The Real Steam Files Or a Raspberry Pi 5, You will
@@ -26,7 +19,11 @@ And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
 
 # Installation Steps
+(NOTE: It is highly recommended you Overclock your Raspberry Pi 5,
+Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder, And additionally if You Don't Want (possible) eye strain, please pick the Professional
+version.)
 
+(NOTE: You NEED V1.1.28 for this to work.)
 
 One, Put Your Steam Pizza Tower files
 into /home/yourusername/your/path/to/this/Game/
