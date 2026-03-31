@@ -33,5 +33,7 @@ then Just Click The Installer.sh (DO NOT CLICK PATCHER.SH, THAT WILL MESS UP THE
 
 # Credits
 Pi Apps & Botspot - Dependencies
+
 Tour De Pizza - Pizza Tower
+
 MartenMario64 - Creator Of The Installer
