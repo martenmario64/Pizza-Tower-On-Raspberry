@@ -1,7 +1,7 @@
 # Pizza-Tower-On-Raspberry
 
 (NOTE: It is highly recommended you Overclock your Raspberry Pi 5,
-Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder, And additionally if You Don't Want eye strain, please pick the Professional
+Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder, And additionally if You Don't Want (possible) eye strain, please pick the Professional
 version.)
 
 (NOTE: Also as if you Really hate The Noise for some reason as a playable character, This Installer Should Be Able To Work With Pre Noise Update Versions Of Pizza Tower (Untested))
