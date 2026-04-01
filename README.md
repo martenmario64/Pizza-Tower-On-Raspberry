@@ -40,6 +40,13 @@ then Just Click Installer.sh!
 
 (If The Installer Wants You To Switch To A 4K Page Size, Click Yes.)
 
+# Troubleshooting
+
+If It Does Not Prompt You And It Crashes, Place "kernel=kernel8.img" at the end of
+"/boot/firmare/config.txt".
+
+DO NOT RUN THIS ON A RASPBERRY PI 4, IT WILL CRASH.
+
 # Credits
 Pi Apps & Botspot - Dependencies
 
