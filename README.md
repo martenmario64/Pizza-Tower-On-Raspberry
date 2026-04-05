@@ -9,11 +9,11 @@ On Either Installation, You'll See A Folder Called Game,
 copy your steam files of Pizza Tower in that folder,
 No Subdirectorys.
 
-# Diffirences Between Installations
+# Diffirences Between Resolutions
 
-Regular - 30 FPS, Allows Up To 1080p (Do Not Put The Game In Fullscreen.)
+1080p - Works Great, Do Not Put The Game In Fullscreen.
 
-Professional - 45 FPS, Allows Up To 720p (Fullscreen is fine, but 1080p has not been tested.)
+720p - Allows Up To 720p (Fullscreen is fine, but 1080p has not been tested.)
 
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
@@ -23,7 +23,7 @@ A Raspberry Pi 5 (8GB Of Ram) (4GB Of Ram Works, But Itll Be Bad.)
 
 Official Power Supply (From Places Like Canakit)
 
-A Official Steam Copy Of Pizza Tower (V1.1.28)
+A Official Steam Copy Of Pizza Tower (V1.1.063)
 
 (OPTIONAL) Pironman5 (Not Needed, But Recommended.)
 
@@ -32,7 +32,7 @@ A Official Steam Copy Of Pizza Tower (V1.1.28)
 Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder, And additionally if You Don't Want (possible) eye strain, please pick the Professional
 version.)
 
-(NOTE: You NEED V1.1.28 for this to work.)
+(NOTE: You NEED V1.1.063 for this to work.)
 
 One, Put Your Steam Pizza Tower files
 into /home/yourusername/your/path/to/this/Game/
