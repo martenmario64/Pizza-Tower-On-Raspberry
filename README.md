@@ -23,7 +23,7 @@ A Raspberry Pi 5 (8GB Of Ram) (4GB Of Ram Works, But Itll Be Bad.)
 
 Official Power Supply (From Places Like Canakit)
 
-A Official Steam Copy Of Pizza Tower (V1.1.063 Is Recommended, But Not Needed.)
+A Official Steam Copy Of Pizza Tower (V1.1.28 Is Needed.)
 
 (OPTIONAL) Pironman5 (Not Needed, But Recommended.)
 
@@ -32,7 +32,7 @@ A Official Steam Copy Of Pizza Tower (V1.1.063 Is Recommended, But Not Needed.)
 Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder, And additionally if You Don't Want (possible) eye strain, please pick the Professional
 version.)
 
-(NOTE: You'll Probably Want V1.1.063, But It's Not Needed.)
+(NOTE: You'll NEED V1.1.28)
 
 One, Put Your Steam Pizza Tower files
 into /home/yourusername/your/path/to/this/Game/
