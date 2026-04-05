@@ -11,9 +11,9 @@ No Subdirectorys.
 
 # Diffirences Between Installations
 
-30 FPS - Works Great at 1080p, Do Not Put The Game In Fullscreen.
+30 FPS/Normal - Works Great at 1080p, Do Not Put The Game In Fullscreen.
 
-60 FPS/Normal - Allows Up To 720p (Fullscreen is fine, but 1080p has not been tested.)
+60 FPS - Allows Up To 720p (Fullscreen is fine, but 1080p has not been tested.)
 
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
