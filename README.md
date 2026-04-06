@@ -9,14 +9,7 @@ On Either Installation, You'll See A Folder Called Game,
 copy your steam files of Pizza Tower in that folder,
 No Subdirectorys.
 
-
-
 https://github.com/user-attachments/assets/36b19254-3e21-4df3-8aa5-8e70cee88be9
-
-
-https://github.com/user-attachments/assets/2f0a0fbd-859e-44e4-90ef-5fa0447676fa
-
-
 
 # Diffirences Between Installations
 
