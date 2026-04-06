@@ -8,16 +8,17 @@ Not be able to install this!
 On Either Installation, You'll See A Folder Called Game,
 copy your steam files of Pizza Tower in that folder,
 No Subdirectorys.
-
 # Showcase
 <img width="720" height="400" alt="20260402_21h52m15s_grim" src="https://github.com/user-attachments/assets/0f7b7fda-0bcc-4131-bfba-399389671ef6" />
-<img width="720" height="400" alt="20260403_09h25m15s_grim" src="https://github.com/user-attachments/assets/9db763b0-c5dc-419f-9390-330b5f4ea86f" />
-
+https://github.com/user-attachments/assets/25cd26b2-52c8-43d2-beed-c9e8c0c3cb38
 # Diffirences Between Installations
 
 30 FPS/Normal - Works Great at 1080p, Do Not Put The Game In Fullscreen.
 
 45 FPS - Allows Up To 720p (Fullscreen is fine, but 1080p is not recommended.)
+
+
+
 
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
