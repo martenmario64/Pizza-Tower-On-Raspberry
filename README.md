@@ -11,7 +11,7 @@ No Subdirectorys.
 
 # Showcase
 <img width="720" height="400" alt="20260402_21h52m15s_grim" src="https://github.com/user-attachments/assets/0f7b7fda-0bcc-4131-bfba-399389671ef6" />
-<img width="720" height="400" alt="20260402_21h52m15s_grim" src="https://github.com/user-attachments/assets/f213a376-1748-4ac9-be94-9bc9d433f15a" />
+<img width="720" height="400" alt="20260403_09h25m15s_grim" src="https://github.com/user-attachments/assets/9db763b0-c5dc-419f-9390-330b5f4ea86f" />
 
 # Diffirences Between Installations
 
