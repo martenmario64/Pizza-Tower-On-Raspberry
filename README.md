@@ -10,7 +10,7 @@ copy your steam files of Pizza Tower in that folder,
 No Subdirectorys.
 
 # Showcase
-<img width="1280" height="720" alt="20260402_21h52m15s_grim" src="https://github.com/user-attachments/assets/0f7b7fda-0bcc-4131-bfba-399389671ef6" />
+<img width="720" height="400" alt="20260402_21h52m15s_grim" src="https://github.com/user-attachments/assets/0f7b7fda-0bcc-4131-bfba-399389671ef6" />
 
 
 # Diffirences Between Installations
