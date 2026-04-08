@@ -1,5 +1,7 @@
 # What Is The Pizza Tower On Raspberry Project?
-This is a fan-made installer for Pizza Tower on Steam that can be played On Standard Raspberry Pi OS.
+This is a fan-made installer for Pizza Tower on Steam that can be played On Standard Raspberry Pi OS, Ubuntu,
+
+And Other ARM-Based Processors With A 64-Bit OS.
 
 If You Don't Have The Real Steam Files Or a Raspberry Pi 5, You will
 
