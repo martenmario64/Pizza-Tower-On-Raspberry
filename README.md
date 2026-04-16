@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/36b19254-3e21-4df3-8aa5-8e70cee88be9
 
 # Diffirences Between Installations
 
-30 FPS/Normal - Works Great at 1080p, Do Not Put The Game In Fullscreen.
+30 FPS/Normal - Works Great at 1080p, Full Screen Is Fine.
 
 45 FPS - Allows Up To 720p (Fullscreen is fine, but 1080p is not recommended.)
 
@@ -36,8 +36,7 @@ A Official Steam Copy Of Pizza Tower (V1.1.28 Is Needed.)
 
 # Installation Steps
 (NOTE: It is highly recommended you Overclock your Raspberry Pi 5,
-Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder, And additionally if You Don't Want (possible) eye strain, please pick the Professional
-version.)
+Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi 5 Made By Sunfounder.)
 
 (NOTE: You'll NEED V1.1.28)
 
