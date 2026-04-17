@@ -44,14 +44,14 @@ echo "NOTE: You Will Need A Vaild Copy Of Pizza Tower For This Next Step. (V1.1.
 rm -r ~/.martenapps/pizzatower30/
 mkdir ~/.martenapps/
 mkdir ~/.martenapps/pizzatower30/
-xdelta3 -n -d -s $DATA_FOLDER/Game/data.win $DATA_FOLDER/.files/Regular.xdelta ~/.martenapps/pizzatower30/data.win
+xdelta3 -n -d -s $DATA_FOLDER/Game/data.win $DATA_FOLDER/files/Regular.xdelta ~/.martenapps/pizzatower30/data.win
 cp -r $DATA_FOLDER/Game/ ~/.martenapps/pizzatower30/
-cp $DATA_FOLDER/.files/runner.sh ~/.martenapps/pizzatower30/Game/runner.sh
+cp $DATA_FOLDER/files/runner.sh ~/.martenapps/pizzatower30/Game/runner.sh
 rm ~/.martenapps/pizzatower30/Game/data.win
 mv ~/.martenapps/pizzatower30/data.win ~/.martenapps/pizzatower30/Game/
 rm ~/.martenapps/pizzatower30/Game/PUT\ STEAM\ GAME\ HERE.txt
 rm ~/.martenapps/pizzatower30/Game/Steamworks_x64.dll
-cp $DATA_FOLDER/.files/runner.sh ~/Desktop/PizzaTower_30FPS.sh
+cp $DATA_FOLDER/files/runner.sh ~/Desktop/PizzaTower_30FPS.sh
 
 echo "Finished! Go To The Desktop And Find "PizzaTower_30FPS.sh"!"
 echo "Press Any Button To Close."
