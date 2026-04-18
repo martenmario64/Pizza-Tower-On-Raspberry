@@ -26,9 +26,9 @@ And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
 
 # Mininum System Requirements
-A Raspberry Pi 5 (4GB Of Ram)
+A Raspberry Pi 5 (8GB Of Ram Or Above)
 
-At Least A Official Charger (Apparently 1.5ghz Works)
+An Official Power Supply (Like The Ones From Canakit)
 
 A Official Steam Copy Of Pizza Tower (V1.1.28 Is Needed.)
 
