@@ -2,7 +2,7 @@
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DATA_FOLDER="$SCRIPT_DIR"
-REQUIRED_VER=5
+REQUIRED_VER=6
 #Install Script For Pizza Tower - Pi Edition
 
 if [ "$1" != "--in-terminal" ]; then
