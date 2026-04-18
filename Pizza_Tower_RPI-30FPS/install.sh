@@ -54,9 +54,9 @@ rm ~/.martenapps/pizzatower30/Game/data.win
 mv ~/.martenapps/pizzatower30/data.win ~/.martenapps/pizzatower30/Game/
 rm ~/.martenapps/pizzatower30/Game/PUT\ STEAM\ GAME\ HERE.txt
 rm ~/.martenapps/pizzatower30/Game/Steamworks_x64.dll
-xdelta3 -n -d -s $DATA_FOLDER/Game/data.win $DATA_FOLDER/.files/Professional.xdelta ~/.martenapps/pizzatower/data.win
+xdelta3 -n -d -s $DATA_FOLDER/Game/data.win $DATA_FOLDER/files/Professional.xdelta ~/.martenapps/pizzatower/data.win
 cp -r $DATA_FOLDER/Game/ ~/.martenapps/pizzatower/
-cp $DATA_FOLDER/.files/runner.sh ~/.martenapps/pizzatower/Game/runner.sh
+cp $DATA_FOLDER/files/runner.sh ~/.martenapps/pizzatower/Game/runner.sh
 rm ~/.martenapps/pizzatower/Game/data.win
 mv ~/.martenapps/pizzatower/data.win ~/.martenapps/pizzatower/Game/
 rm ~/.martenapps/pizzatower/Game/PUT\ STEAM\ GAME\ HERE.txt
@@ -67,3 +67,4 @@ echo "Finished! Go To The Desktop And Find "PizzaTower.sh"!"
 echo "Press Any Button To Close."
 read button
 exit 0
+
