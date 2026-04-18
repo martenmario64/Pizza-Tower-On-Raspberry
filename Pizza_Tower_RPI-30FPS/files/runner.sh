@@ -1,4 +1,4 @@
-VERSION=5
+VERSION=6
 #!/bin/bash
 
 if command -v xrandr > /dev/null; then
