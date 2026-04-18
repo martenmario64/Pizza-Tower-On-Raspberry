@@ -25,10 +25,10 @@ https://github.com/user-attachments/assets/36b19254-3e21-4df3-8aa5-8e70cee88be9
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
 
-# Requirements
-A Raspberry Pi 5 (8GB Of Ram) (4GB Of Ram Works, But Itll Be Bad.)
+# Mininum System Requirements
+A Raspberry Pi 5 (4GB Of Ram)
 
-Official Power Supply (From Places Like Canakit)
+At Least A Official Charger (Apparently 1.5mhz Works)
 
 A Official Steam Copy Of Pizza Tower (V1.1.28 Is Needed.)
 
