@@ -15,7 +15,7 @@ if [ "$current_v_res" -le 720 ]; then
     yad_id=$!
     MESA_GL_VERSION_OVERRIDE=3.3 MESA_GLSL_VERSION_OVERRIDE=330 BOX64_LIBGL=libGL.so.1 wine ~/.martenapps/pizzatower/Game/PizzaTower.exe -debug &
 else
-    yad --pulsate --text="  Loading...  (Note If You Want 30 FPS Set The System To Be Above 1280x720)." \
+    yad --pulsate --text="  Loading...  (Note If You Want 45 FPS Set The System To Be Below 1280x960)." \
     --width=200 --undecorated --fixed --skip-taskbar \
     --no-buttons --on-top --center &    
     yad_id=$!
