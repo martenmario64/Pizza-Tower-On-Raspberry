@@ -10,15 +10,15 @@ if [ "$1" != "--in-terminal" ]; then
     exit
 fi
 
-echo Installing "Pizza Tower - Pi Edition (Professional)..."
+echo Installing "Pizza Tower - Pi Edition..."
 echo This Project Would Have Not Been Possible
 echo Without The Great People At Pi-Apps!
 echo Support Botspot!
 
-DIRECTORY="$HOME/.martenapps/pizzatower30/"
+DIRECTORY="$HOME/.martenapps/pizzatower/"
 
-if [ -f "$HOME/.martenapps/pizzatower30/Game/runner.sh" ]; then
-	INSTALLED_VER=$(grep -iPo '(?<=VERSION=)\d+' "$HOME/.martenapps/pizzatower30/Game/runner.sh")
+if [ -f "$HOME/.martenapps/pizzatower/Game/runner.sh" ]; then
+	INSTALLED_VER=$(grep -iPo '(?<=VERSION=)\d+' "$HOME/.martenapps/pizzatower/Game/runner.sh")
 else
 	INSTALLED_VER=0
 fi
@@ -26,6 +26,7 @@ fi
 if [ "$INSTALLED_VER" -lt "$REQUIRED_VER" ]; then
 	echo "Deleting Files For New Install..."
 	rm -r "$HOME/.martenapps/pizzatower30/"
+	rm -r "$HOME/.martenapps/pizzatower/"
 fi
 
 if [ -d "$DIRECTORY" ]; then
