@@ -15,6 +15,7 @@ https://github.com/user-attachments/assets/36b19254-3e21-4df3-8aa5-8e70cee88be9
 
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
+
 If You Wanna Get The Files On The Raspberry Pi 5 Itself, Please Use The Steam App
 On Pi-Apps.
 
@@ -34,10 +35,14 @@ Also, it is highly recommended you get the Pironman5 Casing For The Raspberry Pi
 (NOTE: You'll NEED V1.1.28)
 
 One, Put Your Steam Pizza Tower files
-into /home/yourusername/your/path/to/this/Game/
+
+into /home/yourusername/your/path/to/this/Pizza_Tower_RPI-VXXX/Game/
+
 then Just Click Installer.sh!
 
 (If The Installer Wants You To Switch To A 4K Page Size, Click Yes.)
+
+(If You Don't Know Version XXX, It Just Means A Unknown Version, Since You Can Install Any Version On The Raspberry Pi.)
 
 # Troubleshooting
 
