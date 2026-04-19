@@ -13,17 +13,10 @@ No Subdirectorys.
 
 https://github.com/user-attachments/assets/36b19254-3e21-4df3-8aa5-8e70cee88be9
 
-# Diffirences Between Installations
-
-30 FPS/Normal - Works Great at 1080p, Full Screen Is Fine.
-
-45 FPS - Allows Up To 720p (Fullscreen is fine, but 1080p is not recommended.)
-
-
-
-
 And if you got the files, its a simple one click process!
 Just click the install.sh file and you're ready!
+If You Wanna Get The Files On The Raspberry Pi 5 Itself, Please Use The Steam App
+On Pi-Apps.
 
 # Mininum System Requirements
 A Raspberry Pi 5 (8GB Of Ram Or Above)
@@ -52,6 +45,9 @@ If It Does Not Prompt You And It Crashes, Place "kernel=kernel8.img" at the end 
 "/boot/firmare/config.txt".
 
 DO NOT RUN THIS ON A RASPBERRY PI 4, IT WILL CRASH.
+
+If The Install Failed And You Wanna Redo The Main Install, Go To A hidden Folder In The Home Folder Called
+$HOME/.martenapps/pizzatower/ (There will be a Pizza Tower 30 folder or a demo folder, delete those if you wanna redo those.)
 
 # Credits
 Pi Apps & Botspot - Dependencies
