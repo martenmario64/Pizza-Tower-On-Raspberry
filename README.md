@@ -20,7 +20,7 @@ If You Wanna Get The Files On The Raspberry Pi 5 Itself, Please Use The Steam Ap
 On Pi-Apps.
 
 # Mininum System Requirements
-A Raspberry Pi 5 (8GB Of Ram Or Above)
+A Raspberry Pi 5 (4GB Of Ram Or Above)
 
 An Official Power Supply (Like The Ones From Canakit)
 
