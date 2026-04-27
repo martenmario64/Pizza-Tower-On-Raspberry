@@ -24,6 +24,7 @@ else
 		wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 	fi
 	~/pi-apps/manage install "Box86"
+	~/pi-apps/manage install "More Ram"
 	if [ ! -f "/usr/local/bin/wine" ]; then
 		~/pi-apps/manage install "Wine (x64)"
 	fi
