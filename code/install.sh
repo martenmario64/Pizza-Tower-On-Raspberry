@@ -2,7 +2,7 @@
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DATA_FOLDER="$SCRIPT_DIR"
-REQUIRED_VER=6
+REQUIRED_VER=7
 #Install Script For Pizza Tower - Pi Edition
 
 if [ "$1" != "--in-terminal" ]; then
@@ -10,15 +10,15 @@ if [ "$1" != "--in-terminal" ]; then
     exit
 fi
 
-echo Installing "Pizza Tower - Pi Edition..."
+echo Installing "Pizza Tower - Pi Edition (Professional)..."
 echo This Project Would Have Not Been Possible
 echo Without The Great People At Pi-Apps!
 echo Support Botspot!
 
-DIRECTORY="$HOME/.martenapps/pizzatower/"
+DIRECTORY="$HOME/.martenapps/pizzatower30/"
 
-if [ -f "$HOME/.martenapps/pizzatower/Game/runner.sh" ]; then
-	INSTALLED_VER=$(grep -iPo '(?<=VERSION=)\d+' "$HOME/.martenapps/pizzatower/Game/runner.sh")
+if [ -f "$HOME/.martenapps/pizzatower30/Game/runner.sh" ]; then
+	INSTALLED_VER=$(grep -iPo '(?<=VERSION=)\d+' "$HOME/.martenapps/pizzatower30/Game/runner.sh")
 else
 	INSTALLED_VER=0
 fi
@@ -26,7 +26,6 @@ fi
 if [ "$INSTALLED_VER" -lt "$REQUIRED_VER" ]; then
 	echo "Deleting Files For New Install..."
 	rm -r "$HOME/.martenapps/pizzatower30/"
-	rm -r "$HOME/.martenapps/pizzatower/"
 fi
 
 if [ -d "$DIRECTORY" ]; then
@@ -36,7 +35,10 @@ else
 		wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 	fi
 	~/pi-apps/manage install "Box86"
-	~/pi-apps/manage install "Wine (x64)"
+	~/pi-apps/manage install "More Ram"
+	if [ ! -f "/usr/local/bin/wine" ]; then
+		~/pi-apps/manage install "Wine (x64)"
+	fi
 	sudo apt install xdelta3 -y
 fi
 
