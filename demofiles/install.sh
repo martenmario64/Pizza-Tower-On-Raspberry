@@ -17,17 +17,6 @@ echo Support Botspot!
 
 DIRECTORY="$HOME/.martenapps/pizzatowermm64demo/"
 
-if [ -f "$HOME/.martenapps/pizzatowermm64demo/Game/runner.sh" ]; then
-	INSTALLED_VER=$(grep -iPo '(?<=VERSION=)\d+' "$HOME/.martenapps/pizzatower30/Game/runner.sh")
-else
-	INSTALLED_VER=0
-fi
-
-if [ "$INSTALLED_VER" -lt "$REQUIRED_VER" ]; then
-	echo "Deleting Files For New Install..."
-	rm -r "$HOME/.martenapps/pizzatowermm64demo/"
-fi
-
 if [ -d "$DIRECTORY" ]; then
 	echo "Packages Installed, Moving On."
 else
@@ -35,7 +24,9 @@ else
 		wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 	fi
 	~/pi-apps/manage install "Box86"
-	~/pi-apps/manage install "Wine (x64)"
+	if [ ! -f "/usr/local/bin/wine" ]; then
+		~/pi-apps/manage install "Wine (x64)"
+	fi
 	sudo apt install xdelta3 -y
 fi
 
